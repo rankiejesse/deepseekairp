@@ -1,2 +1,3 @@
 # deepseekairp
 deepseek人设
+用于存放Rankie写的airp人设指令
